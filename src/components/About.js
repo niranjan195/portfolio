@@ -27,9 +27,10 @@ export class About extends Component {
               and individually and use a creative approach to solve problem.
             </p>
             <a
-              href="../NIRANJAN_HEGDE.pdf"
+              href="https://drive.google.com/file/d/10WwJtfZvDeGgpfVmKOJNnM4tVZXKCzoh/view"
               id="download-button"
-              download="Niranjan_Resume.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
             >
               <FontAwesomeIcon icon={faDownload} size="0.5x" id="icon" />
               Download Resume

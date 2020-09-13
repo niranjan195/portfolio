@@ -4,16 +4,14 @@
   margin: 0 auto;
   overflow: hidden;
   position: fixed;
-  /* border: 1px solid green; */
   z-index: 5000;
 }
 
-ul {
+ol {
   list-style-type: none;
   margin: auto;
   width: 35%;
   padding: 0;
-  /* border: 1px solid yellow; */
   display: flex;
   justify-content: space-around;
 }
@@ -43,9 +41,10 @@ ul {
   .nav-bar {
     width: 100%;
     position: relative;
-    background-color: inherit;
+    display: none;
+    /* background-color: inherit; */
   }
-  ul {
+  ol {
     width: 100%;
     display: block;
   }
@@ -55,7 +54,7 @@ ul {
 
   .icon {
     float: right;
-    display: block;
+    display: inline-block;
   }
   .display .nav-item {
     float: none;

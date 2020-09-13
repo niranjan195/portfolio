@@ -23,7 +23,7 @@ export class NavBar extends Component {
   render() {
     return (
       <div className={this.state.display ? "nav-bar display" : "nav-bar"}>
-        <ul>
+        <ol>
           <Link
             activeClass="active"
             to="home"
@@ -66,7 +66,7 @@ export class NavBar extends Component {
               onClick={this.handleClick}
             ></i>
           </li>
-        </ul>
+        </ol>
       </div>
     );
   }
