@@ -27,7 +27,7 @@ export class About extends Component {
               and individually and use a creative approach to solve problem.
             </p>
             <a
-              href="https://drive.google.com/file/d/10WwJtfZvDeGgpfVmKOJNnM4tVZXKCzoh/view"
+              href="https://drive.google.com/file/d/1K0x2n7T0yxCRVhYNcUmamz1Max7wPnE3/view"
               id="download-button"
               target="_blank"
               rel="noopener noreferrer"

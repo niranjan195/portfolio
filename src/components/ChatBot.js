@@ -52,7 +52,7 @@ const steps = [
         Here you go, you can view or download Niranjan's Resume from the below
         link.
         <a
-          href="https://drive.google.com/file/d/10WwJtfZvDeGgpfVmKOJNnM4tVZXKCzoh/view"
+          href="https://drive.google.com/file/d/1K0x2n7T0yxCRVhYNcUmamz1Max7wPnE3/view"
           id="download-button"
           target="_blank"
           rel="noopener noreferrer"

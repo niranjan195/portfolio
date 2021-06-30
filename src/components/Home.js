@@ -34,7 +34,7 @@ export class Home extends Component {
           </h1>
           <p>
             A passionate Developer 🚀 building Web applications with Python /
-            JavaScript / Reactjs / Nodejs / and some other cool libraries and
+            JavaScript / Reactjs / and some other cool libraries and
             frameworks.
           </p>
           <div className="social-links">

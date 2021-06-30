@@ -36,6 +36,11 @@
   grid-row: 1 / span 2;
 }
 
+.experience {
+  grid-column: 1;
+  grid-row: 3 / span 2;
+}
+
 .content-resume1 {
   grid-column: 2;
   grid-row: 1;
@@ -52,7 +57,7 @@
 
 .work {
   grid-column: 2;
-  grid-row: 3;
+  grid-row: 3 / span 2;
 }
 
 .content-resume3 {
@@ -90,6 +95,15 @@
   margin-top: 10px;
   padding: 5px;
 }
+
+.content-resume6 {
+  grid-column: 2;
+  grid-row: 6;
+  /* margin-top: 2.5em; */
+  margin-top: 10px;
+  padding: 5px;
+}
+
 
 .skill {
   border: 1px solid blue;

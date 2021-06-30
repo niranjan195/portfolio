@@ -15,7 +15,7 @@ export default function Resume() {
             <span>Sapthagiri College of Engineering</span>
           </h1>
           <p className="desg">B.E Information Science</p>
-          <p className="place-year">Bangalore, 2016-20</p>
+          <p className="place-year">Bangalore, 2016-2020</p>
         </div>
       </div>
       <div className="content-resume2">
@@ -26,15 +26,29 @@ export default function Resume() {
           <p className="desg">
             Higher Secondary Education (12th) Computer Science
           </p>
-          <p className="place-year">Sirsi, 2015-16</p>
+          <p className="place-year">Sirsi, 2015-2016</p>
         </div>
       </div>
-      <div className="header">
+      <div className="header experience">
         <h1>
           <span>Experience</span>
         </h1>
       </div>
       <div className="content-resume3">
+        <h1 className="content-header work">
+          <span>Niki.ai</span>
+        </h1>
+        <p className="desg">Assosciate Software Developer</p>
+        <p className="place-year">Bangalore, Jan 2021 -Present</p>
+        <ul className="desc">
+          <li>
+            Working on Android app development in a team of two.
+          </li>
+          <li>Resolved issues quickly of users by being part of support-tech calls</li>
+          <li>Trained the non-tech teams on basics of Python.</li>
+        </ul>
+      </div>
+      <div className="content-resume4">
         <h1 className="content-header work">
           <span>Nouveau Labs</span>
         </h1>
@@ -58,11 +72,11 @@ export default function Resume() {
           <span>Volunteer Experience</span>
         </h1>
       </div>
-      <div className="content-resume4">
+      <div className="content-resume5">
         <h1 className="content-header volunteer">
           <span>ISE Technical Club</span>
         </h1>
-        <p className="place-year">Bangalore, 2019</p>
+        <p className="place-year">Bangalore, 2019-2020</p>
         <ul className="desc">
           <li>
             Co-Founded the programming club Sapthagiri College of Engineering.
@@ -80,22 +94,13 @@ export default function Resume() {
         </h1>
       </div>
       <div>
-        <div className="content-resume5">
+        <div className="content-resume6">
           <div class="w3-light-grey w3-round">
             <div
               className="w3-container w3-blue w3-round"
-              style={{ width: "95%" }}
+              style={{ width: "85%" }}
             >
-              HTML5
-            </div>
-          </div>
-          <br />
-          <div class="w3-light-grey w3-round">
-            <div
-              className="w3-container w3-blue w3-round"
-              style={{ width: "70%" }}
-            >
-              CSS
+              Android
             </div>
           </div>
           <br />
