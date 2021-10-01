@@ -1,10 +1,10 @@
 # Niranjan's Portfolio.
 
-I have hosted this project on Netlify. You can find the project on [Portfolio link](https://niranjanhegde144.github.io/portfolio/).
+I have hosted this project on Github Pages. You can find the project on [Portfolio link](https://niranjanhegde144.github.io/portfolio/).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-If you want to host your app on Netlify you can follow the steps found in the blog. [Blog link](https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f)
+If you want to host your app on Github Pages you can follow the steps found in the blog. [Blog link](https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f)
 
 ## Available Scripts
 
