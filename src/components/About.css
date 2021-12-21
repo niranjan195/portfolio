@@ -4,6 +4,7 @@
   filter: brightness(100%);
   /* color: black; */
   display: flex;
+  text-align: center;
   flex-direction: column;
   background-position: center;
   background-size: cover;
